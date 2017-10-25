@@ -2,5 +2,6 @@ In this study I analyze the effect of tweets by Citron - a renowned investment r
 TweetdataRetrieval.py obtains tweets posted by Citron for 2015-2017
 yahoo.py obtains historical stock data for stock covered by Citron
 match.py matches tweet data and stock symbol with stock data from yahoo for analysis
-NaiveBayes_sentiment.py is a script for analyzing sentiment in tweets - can be applied to large scale tweets
-tools and libraries: tweepy, nltk, csv libraries.
+NaiveBayes_sentiment.py is a script for analyzing sentiment in tweets - can be applied to large scale tweets.
+
+Tools and libraries: Python, tweepy, nltk, csv libraries; Tableau for viz.
